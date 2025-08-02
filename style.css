@@ -43,6 +43,10 @@ nav{
     background-color: black;
     color:#ffbf23;
 }
+.logo img{
+    max-width: 100%;
+    height: auto;
+}
 .landing{
     padding: 50px;
     display: flex;
